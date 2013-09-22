@@ -1,7 +1,7 @@
 TDD String Calculator
 =============
 
-I found another TDD Code Kata that I want to do.  This should take no more than an  hour to do but be sure to follow the instructions because the goal is to do this exercise incrementally and learn how to to TDD.  I haven't done very much TDD in my work environment so this is something I want to get better at and even if you are a TDD expert I hope this will be fun for you.
+Hopefully this Kata takes you no more than an hour to do.  Be sure to follow the instructions because the goal is to do this exercise incrementally and learn how to do TDD.  This is a Kata to help us get better at TDD. If you are a TDD expert I hope this will be fun for you.
 
 ###Task
 * Don't read ahead
