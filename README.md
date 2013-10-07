@@ -39,4 +39,4 @@ Thanks to [Roy Osherove's website](http://www.osherove.com) for this [Code Kata]
 1. Fork [this github repository](https://github.com/CentralArkansasCodeKata/TDDStringCalculator).
 2. Write your solution to the problem.
 3. Commit your solution to the repository.
-4. Post a link to your fork as a comment to [this Prime Factors post](http://codekata.co/2013/09/22/tdd-string-calculator/) on [codekata.co](http://codekata.co).
+4. Post a link to your fork as a comment to [this TDD String Calculator post](http://codekata.co/2013/09/22/tdd-string-calculator/) on [codekata.co](http://codekata.co).
